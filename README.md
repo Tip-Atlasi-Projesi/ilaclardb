@@ -43,9 +43,7 @@ Bu veri seti, aşağıdaki kullanım alanları için uygundur:
 - İlaç sınıflandırmaları üzerinde analiz
 - Eğitim ve akademik çalışmalar
 
-# TIP ATLASI PROJESİ WE SİTESİ
-Bu wep sayfası sayesenide verileri indirmeden direk olarak araya bilirsiniz.
-http://tipatlasi.rf.gd/?i=1
+
 ## Lisans
 Bu veri seti, Creative Commons Attribution 4.0 International altında lisanslanmıştır. Lütfen kullanım sırasında bu lisansa uygun hareket ediniz.
 
